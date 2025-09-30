@@ -11,7 +11,7 @@ export const Header: React.FC = () => {
             Image to HTML Converter
           </h1>
         </div>
-        <p className="text-[var(--color-text-secondary)] text-sm ml-11">Powered by Gemini AI</p>
+        <p className="text-[var(--color-text-secondary)] text-sm ml-11">Powered by Hucinty</p>
       </div>
     </header>
   );
